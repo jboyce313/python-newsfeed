@@ -5,7 +5,6 @@ Welcome to Just Tech News! This website allows users to stay up-to-date with the
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
