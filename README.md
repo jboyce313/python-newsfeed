@@ -45,5 +45,5 @@ Just Tech News is released under the [MIT License](LICENSE). Please review the l
 
 ---
 
-Front End Code provided by edX Boot Camps LLC
-Back End Code developed under the guidance of the "Python for JavaScript Developers" course from edX Boot Camps LLC
+- Front End Code provided by edX Boot Camps LLC
+- Back End Code developed under the guidance of the "Python for JavaScript Developers" course from edX Boot Camps LLC
